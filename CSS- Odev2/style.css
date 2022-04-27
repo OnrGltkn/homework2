@@ -1,0 +1,57 @@
+.picture {
+    text-align: center;
+}
+.SearchBox {
+    
+    background-color: #eeeeee;
+    text-align: center;
+    font:16px 'Times New Roman', Times, serif;
+    height: 80px;
+}
+.aramaKutusu {
+    border:1px solid #000;
+    border-radius:3px;
+    width:350px;
+    height:20px;
+}
+
+.p { 
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    
+}
+.bottom{
+    display: flex;
+}
+
+.bottom1 {
+    background-color: #7ee5da;
+    width: 400px;
+    height: 120px;
+}
+
+.bottom2 {
+    background-color: #70ccc2;
+    width: 300px;
+    height: 120px;
+    margin-left: 15px;
+}
+
+.bottom3 {
+    background-color: #62b3aa;
+    margin-left: 15px;
+    width: 700px;
+    height: 120px;
+    text-align: center;
+    float: right;
+}
+
+.bottom3in1 {
+    margin-left: 250px;
+}
+.footer {
+    width:1750px;
+    margin-left: 600px;
+    font:12px 'Times New Roman', Times, serif;
+}
+
