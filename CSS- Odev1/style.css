@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://img.wallpapersafari.com/desktop/1280/1024/44/93/z9YJw7.jpg");
+    background-size: cover;
+}
+
+    /* İndex.html - Start*/
+
+.tac{
+    text-align: center;
+}
+
+.menu-item{
+    text-decoration: none;
+    font-size: 25px;
+    color: blue;
+    margin-left: 10px;
+}
+
+.asd{
+    text-align: left;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.ul{
+    font-size: 20px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+    /* İndex.html - End */
+
+    /* About-us.html - Start */
+
+.punto1{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+    /* About-us.html - End*/
+
+
+
+
+
+

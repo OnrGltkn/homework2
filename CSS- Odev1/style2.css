@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://img.wallpapersafari.com/desktop/1024/576/1/29/x4B3zK.jpg");
+    background-size:contain;
+    }
+
+.product {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.item {
+    text-align: center;
+    
+}
+
+.text {
+    color: blue;
+    font-size: 30px;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+
